@@ -2,6 +2,7 @@ using namespace std;
 
 void adressing()
 {
+    
     stringstream ss;
     ss << starting_address;
     string s = ss.str();
