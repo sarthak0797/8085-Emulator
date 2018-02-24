@@ -1,5 +1,6 @@
 void compile()
 {
+    
     for(int i = 1; i < length-1; i++)
     {
         if(c(code[i].mnemonic) == -1 )
