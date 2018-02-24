@@ -35,6 +35,7 @@ void SUB(char ch)
     }
     else if(ch == 'M')
     {
+        
         int addre = hexToDec(registers[7])*100 + hexToDec(registers[11]);
         int data = hexToDec(memory[addre]);
         int data1 = hexToDec(registers[0]);
