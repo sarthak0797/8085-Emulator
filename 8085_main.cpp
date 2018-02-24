@@ -34,8 +34,10 @@ int main()
     }
     else
     {
+        
         cout << "WRONG CHOICE";
         return 0;
+        
     }
     cout << "Value of register A is " << registers[0] << "\n";
     cout << "Value of register B is " << registers[1] << "\n";
