@@ -1,5 +1,6 @@
 using namespace std;
 
+
 void SET(string mem_addr, string data)
 {
     int mem = hexToDec(mem_addr);
