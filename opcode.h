@@ -4,8 +4,8 @@ int c(string str)
     map<string, int> op;
 	op["LDA"] = 3;
 	op["MOV"] = 2;
-    op["MVI"] = 2;
-    op["ADD"] = 2;
+    	op["MVI"] = 2;
+    	op["ADD"] = 2;
 	op["ADI"] = 2;
 	op["LHLD"] = 3;
 	op["SHLD"] = 3;
