@@ -34,7 +34,6 @@ int main()
     }
     else
     {
-        
         cout << "WRONG CHOICE";
         return 0;
         
