@@ -34,6 +34,7 @@ int codes(int i)
         if(code[i].mnemonic == "STAX")
         {
             STAX(code[i].reg1[0]);
+            
         }
         if(code[i].mnemonic == "XCHG")
             XCHG();
