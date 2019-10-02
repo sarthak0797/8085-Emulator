@@ -4,4 +4,4 @@ The code has been divided into various segments to make it more user friendly.
 Each header file contains different sub-tasks.
 
 ## How to Run :
-Run the 8085_main.cpp file using any compiler (All the files should be in the same directory).
+Run the 8085_main.cpp file using any C++ compiler (All the files should be in the same directory).
